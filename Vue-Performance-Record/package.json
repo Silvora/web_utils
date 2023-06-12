@@ -1,0 +1,20 @@
+{
+  "name": "vue-performance-record",
+  "version": "0.0.3",
+  "description": "vue单页面性能监视",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Silvora/Vue-Performance-Record.git"
+  },
+  "keywords": ["vue","performance","record"],
+  "author": "Silvora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silvora/Vue-Performance-Record/issues"
+  },
+  "homepage": "https://github.com/Silvora/Vue-Performance-Record#readme"
+}
